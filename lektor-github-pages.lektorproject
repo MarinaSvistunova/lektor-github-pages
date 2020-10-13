@@ -2,4 +2,4 @@
 name = lektor-github-pages
 
 [servers.ghpages]
-target = ghpages://marinasvistunova:1b7c86a0cdfd1788d2c080cecaeeaa822b054cfe@marinasvistunova/marinasvistunova.github.io/lektor-github-pages/
+target = ghpages://marinasvistunova:1b7c86a0cdfd1788d2c080cecaeeaa822b054cfe@marinasvistunova/marinasvistunova.github.io
